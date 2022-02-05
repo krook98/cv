@@ -1,5 +1,6 @@
 body {
     background-color: #EAF6F6;
+    
 }
 
 hr {
@@ -9,4 +10,13 @@ hr {
     border-color: grey;
     border-width: 5px;
     width: 5%;
+}
+
+h1,h3 {
+    color: #66bfbf;
+
+}
+
+.circular {
+    border-radius: 100%;
 }
